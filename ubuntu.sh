@@ -10,4 +10,4 @@ wget https://github.com/lucint/termux/raw/main/ubuntu-termux.tar.gz
 tar -xf ubuntu-termux.tar.gz
 cd ubuntu-termux
 chmod +x ubuntu.sh
-sh ubuntu.sh
+./ubuntu.sh
